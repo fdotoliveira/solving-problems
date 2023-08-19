@@ -1,2 +1,2 @@
-# solving-problems
+# Solving Problems
 Solving problems from LeetCode and HackerRank
